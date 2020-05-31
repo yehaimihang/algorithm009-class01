@@ -154,7 +154,7 @@
 
      ------
 
-     ![](E:\IDEspace\Queue.png)
+     ![](https://github.com/yehaimihang/algorithm009-class01/tree/master/Week_01/images/Queue.png)
 
      ------
 
@@ -175,7 +175,7 @@
 
      ------
 
-     ![](E:\IDEspace\PriorityQueue.png)
+     ![](https://github.com/yehaimihang/algorithm009-class01/tree/master/Week_01/images/PriorityQueue.png)
 
      > 图片来自：https://www.cnblogs.com/Elliott-Su-Faith-change-our-life/p/7472265.html
 
